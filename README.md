@@ -3,6 +3,9 @@ Validated Free Resources:
 *https://www.geeksforgeeks.org/python-programming-language/
 Geeks for Geeks has a large number of great tutorials and lessons to learn the "under-the-hood" parts of programming as well as practical applications. If you want to know how to speed up your coding, look here.
 
+*https://towardsdatascience.com/
+Particularly useful tutorials on AI and machine learning
+
 *https://www.freecodecamp.org
 Free Code Camp offers a variety of lessons ranging from front-end web development (the default for the site) to covering college level statistics and linear algebra
 
